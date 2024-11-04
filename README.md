@@ -1,10 +1,10 @@
-# Olympic Data Analytics | Azure End-To-End Data Engineering Project
+# Olympic Data Analytics
 
 ## Project Overview
 This project is an Azure-based, end-to-end data engineering pipeline developed to analyze Olympic data. Leveraging a suite of Azure services, we built a solution to ingest, transform, and visualize data, offering insights into Olympic events, athletes, and historical performance.
 
 ## Architecture Diagram
-![Architecture Diagram](path/to/your/Olympic_Diagram.png)  
+![Architecture Diagram](Olympic_Diagram.png)  
 *Replace the above path with the correct path to your architecture diagram.*
 
 ## Data Source

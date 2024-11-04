@@ -25,6 +25,6 @@ The Olympic data was sourced from Kaggle, including detailed records of Olympic 
 5. **Analytics**
    - **Azure Synapse Analytics**: Enables analytical querying and data exploration.
 
-6. **Visualization**
+6. **Visualization (Ongoing)**
    - **Power BI**: Provides interactive dashboards to visualize insights from Olympic data.
 

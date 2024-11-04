@@ -4,8 +4,7 @@
 This project is an Azure-based, end-to-end data engineering pipeline developed to analyze Olympic data. Leveraging a suite of Azure services, we built a solution to ingest, transform, and visualize data, offering insights into Olympic events, athletes, and historical performance.
 
 ## Architecture Diagram
-![Architecture Diagram](Olympic_Diagram.png)  
-
+![Project Diagram](Olympic%20Diagram.png)
 ## Data Source
 The Olympic data was sourced from Kaggle, including detailed records of Olympic events, athlete profiles, and results across multiple years.
 

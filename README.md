@@ -5,7 +5,6 @@ This project is an Azure-based, end-to-end data engineering pipeline developed t
 
 ## Architecture Diagram
 ![Architecture Diagram](Olympic_Diagram.png)  
-*Replace the above path with the correct path to your architecture diagram.*
 
 ## Data Source
 The Olympic data was sourced from Kaggle, including detailed records of Olympic events, athlete profiles, and results across multiple years.
